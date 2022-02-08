@@ -1,15 +1,18 @@
 title: Jekyll Tailwind Template
 description: Basic Jekyll site template using Tailwind CSS with PostCSS
+author: Kvído Potápník
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-seo-tag # check https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md for configuration options
   - jekyll-sitemap
   - jekyll-postcss
 
 postcss:
   cache: false
+
+permalink: pretty
 
 source: src/
 
