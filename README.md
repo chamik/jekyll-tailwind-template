@@ -16,7 +16,7 @@ You will obviously need [Ruby](https://www.ruby-lang.org/en/downloads/), [Node.j
 
 To start the live server run:
 ```sh
-$ npm start
+$ npm run dev
 ```
 
 If you edited any of the configuration files while the live server was running, you will need to restart it for the changes to take effect.
