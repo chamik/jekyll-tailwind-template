@@ -4,12 +4,12 @@ This is a dead simple Github template repository that takes care of the boring b
 
 ## Setup
 
-You will obviously need [Ruby](https://www.ruby-lang.org/en/downloads/), [Node.js](https://nodejs.org/en/download/), and [Jekyll](https://jekyllrb.com/docs/installation/) installed.
+You will need [Ruby](https://www.ruby-lang.org/en/downloads/), [Node.js](https://nodejs.org/en/download/), and [Jekyll](https://jekyllrb.com/docs/installation/) installed.
 
-1. Click the green `Use this template` button at the top of this page and wait for Github to do its thing
-2. Clone your newly initialized repo
-3. Run `npm run setup` in the repository root. This will download all of the needed dependencies
-4. Edit the `_config.yml` configuration file to your liking (specific instructions inside)
+1. Click the green `Use this template` button at the top of this page and wait for Github to do its thing.
+2. Clone your newly initialized repository.
+3. Run `npm run setup` in the repository root. This will download all of the needed dependencies.
+4. Edit the `_config.yml` configuration file to your liking (specific instructions inside).
 5. You're done!
 
 ## Development
