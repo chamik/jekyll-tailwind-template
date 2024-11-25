@@ -23,5 +23,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# fixes an annoying bug that makes it unable to build the site
+# fixes an annoying bug that makes the site unable to be built
 gem 'json'
